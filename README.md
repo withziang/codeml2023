@@ -28,4 +28,10 @@ We will score your submissions based on F-1 score. The score on the leadboard is
 A presentation of the method used by the winners will be requested. The code must also be given.
 
 
-# R^2 80.38 %	Score:	63.82 %
+# Result 
+R^2: 80.38%	Score:	63.82 %
+
+
+# note 
+
+No data sample or output is given due to confidentiality
