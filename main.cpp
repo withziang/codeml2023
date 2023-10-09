@@ -100,12 +100,12 @@ int main(){
 	/*
 		Input Example:
 		ID,Start Time Interval,End Time Interval,Start Date EST (For Calls & Email),End Date EST (For Email Only),Min of Queue Wait (s),Max of Queue Wait (s),Average of Queue Wait (s),Median of Queue Wait (s),Min of Call Duration (s),Max of Call Duration (s),Median of Call Duration (s),Average of Call Duration (s),Type,# of Calls / Emails
-		0,0.69,0.25,4/19/2022,4/20/2022,826,826,826,826,,,,,EMAIL,1
-		1,0.92,0.25,4/19/2022,4/20/2022,470,470,470,470,,,,,EMAIL,1
-		2,0.96,0.25,4/19/2022,4/20/2022,400,400,400,400,,,,,EMAIL,1
-		3,0.69,0.27,4/19/2022,4/20/2022,825,825,825,825,,,,,EMAIL,1
-		4,0.75,0.27,4/19/2022,4/20/2022,765,765,765,765,,,,,EMAIL,1
-		5,0.79,0.27,4/19/2022,4/20/2022,688,688,688,688,,,,,EMAIL,1
+		0, 1.69333,0.2245,4/19/2022,4/20/2022,826,826,826,826,,,,,EMAIL,134
+		1, 0.92342,0.2224,4/19/2222,4/20/2244,470,470,470,470,,,,,EMAIL,121
+		2, 0.92343,0.2325,4/19/2022,4/20/2022,400,400,400,400,,,,,EMAIL,111
+		3, 0.69333,0.2234,4/19/2022,4/20/2232,125,825,825,812,,,,,EMAIL,112
+		4, 0.23433,0.2234,4/19/2022,4/20/2022,765,765,765,765,,,,,EMAIL,112
+		5, 0.79333,0.2234,4/19/2022,4/20/2022,612,128,128,612,,,,,EMAIL,112
 	*/
 
 	//import phase
